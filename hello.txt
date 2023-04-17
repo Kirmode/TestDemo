@@ -1,6 +1,5 @@
 package maps;
 
-//hello
 import java.net.MalformedURLException;
 import java.net.URL;
 
